@@ -1,34 +1,43 @@
-# 🤺 HOW TO RUN KOTLIN PROGRAMS IN VSCODE
-## ❤️ Tutos
-- First we need to have JDK 17 or newer (Java Development Kit) installed on you machine
-- we have to download kotlin compiler [**Download It Here**](https://github.com/JetBrains/kotlin/releases/tag/v2.2.0)
-- UnZip the file, copy and past it in the program files folder
-- After that copy the path of the **bin** folder and past it in the **path** of environment  variables on your devices
-- Open your CMD and enter this command
+# 📚 Programming Language Setup Guides
 
-    - **kotlin** for version under **1.9**
-    - **kotlin -Xrepl** for version greater than **1.9+**
-- Search Kotlin extension in VSCode and install it 
+Welcome to the **Programming Language Setup Guides** repository!  
+This repository contains beginner-friendly `README.md` files that explain how to **install, configure, and run programs** in different programming languages using **Visual Studio Code (VSCode)**.
 
-    - Extension for format
-    - Extension for autocompletion (if we want it)
-    - Extension for run the code like **Code Runner**
+---
 
-- we can now open vscode, create your HelloWorld.kt kotlin file, and past this inside
-```kotlin
-    fun main() {
-        println("Hello World!")
-    }
-```
-- Press run button in vscode, we’ll see this output in the terminal. 
-```terminal
-    Hello World!
-```
+## 📄 Available Guides
+
+| Language | Filename         | Description |
+|----------|------------------|-------------|
+| C++      | `cpp.md`  | Learn how to set up and run C++ programs in VSCode |
+| C#       | `csharp.md`| Full setup using .NET SDK and OmniSharp |
+| C        | `c.md`    | Guide to run and compile C programs using GCC |
+| Java     | `java.md`    | Setup Java in VSCode using JDK and Java Extension Pack     |
+| Kotlin   | `kotlin.md`  | Setup Kotlin using the Kotlin compiler and VSCode plugins  |
+
+---
+
+## 🚀 Who Is This For?
+
+- 📌 Students and beginners who want to write and run code in **VSCode**
+- 🛠️ Developers setting up a clean environment
+- 💡 Anyone who wants fast and easy setup instructions
+
+---
+
+## ✨ How to Use
+
+1. Clone or download this repository
+2. Open any of the `*.md` files in your Markdown viewer or editor
+3. Follow the instructions step-by-step for your chosen language
+
+---
 
 ## 📫 Contact
 
-- Email : `ibraumodnokpro@gmail.com`
-- GitHub : [@ibraum](https://github.com/ibraum)
+- 📧 Email: `ibraumodnokpro@gmail.com`
+- 🐙 GitHub: [@ibraum](https://github.com/ibraum)
 
 ---
-> *Thanks You ! 🔥 [_ I_B_M _]*
+
+> *Thanks for checking out this project! 🔥 Made with ❤️ by [_ I_B_M _]*
