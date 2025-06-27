@@ -20,7 +20,7 @@
         println("Hello World!")
     }
 ```
-- Press run button in vscode, we'll see this. 
+- Press run button in vscode, we'll see this in the terminal. 
 ```terminal
     Hello World!
 ```
